@@ -1,10 +1,14 @@
-# Password Complexity Checker
+# **PROJECT TITLE :**
+
+PASSWORD COMPLEXITY CHECKER
+
+## **DESCRIPTION :**
 
 A Python-based tool to assess the strength of a password based on criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. The tool provides feedback to users on the password's strength and offers suggestions for improvement.
 
 ---
 
-### Features
+## **FEATURES :**
 
 - **Password Strength Assessment**:
   - Evaluates passwords based on a scoring system.
@@ -19,7 +23,7 @@ A Python-based tool to assess the strength of a password based on criteria such 
 
 ---
 
-### How It Works
+## **HOW IT WORKS :**
 
 The tool checks the following criteria to determine password strength:
 1. **Length**: Passwords should be at least 8 characters long (12+ for higher security).
@@ -34,7 +38,7 @@ The tool checks the following criteria to determine password strength:
 
 ---
 
-### Example Output
+## **EXAMPLE OUTPUT :**
 
 ```
 Enter your password: Sahil123!
